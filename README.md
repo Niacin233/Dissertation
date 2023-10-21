@@ -1,2 +1,1 @@
-# Dissertation
-The codes used for Tuo Sa's dissertation paper
+This project is my postgraduate dissertation at Queen Mary University London.
